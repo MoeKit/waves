@@ -24,5 +24,9 @@
   "bugs": {
     "url": "https://github.com/publicis-indonesia/Waves/issues"
   },
-  "homepage": "http://publicis-indonesia.github.io/Waves"
+  "homepage": "http://publicis-indonesia.github.io/Waves",
+  "spm": {
+    "main": "src/js/waves.js",
+    "output": ["src/css/waves.css"]
+  }
 }
